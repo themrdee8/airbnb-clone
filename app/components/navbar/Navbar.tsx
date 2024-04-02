@@ -1,3 +1,5 @@
+"usse client";
+
 import React from "react";
 import Container from "../Container";
 import Logo from "./Logo";
